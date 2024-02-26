@@ -9,7 +9,7 @@ In this folder there is a folder for the ER Diagram and a folder called starter_
 ## Overview of the project
 This project consisted of data modeling, data engineering, and data analysis.
 ### Data Modeling
-For this I created an ER Diagram of the given data which can be found in the ER Diagram folder
+For this I created an ER Diagram of the given data which can be found in the ER Diagram folder. I used QuickDBD: https://www.quickdatabasediagrams.com/ to create the diagram.
 ### Data Engineering
 For this I created tables to hold the data which can be found in the EmployeeSQL folder
 ### Data Analysis
